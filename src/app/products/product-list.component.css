@@ -1,0 +1,11 @@
+thead {
+  color: #337AB7
+}
+
+td, th, .col-md-6{
+  text-align: left;
+}
+
+.col-md-2 {
+    text-align: right;
+}
